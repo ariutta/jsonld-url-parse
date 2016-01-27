@@ -1,0 +1,22 @@
+{
+  "name": "jsonld-url-parse",
+  "version": "1.0.0-alpha.0",
+  "description": "Extracted jsonld.url.parse function from jsonld.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariutta/jsonld-url-parse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariutta/jsonld-url-parse/issues"
+  },
+  "homepage": "https://github.com/ariutta/jsonld-url-parse#readme",
+  "dependencies": {
+	  "remove-dot-segments": "git://github.com/ariutta/remove-dot-segments.git"
+  }
+}
